@@ -13,10 +13,10 @@
     <meta name="viewport" content="width=device-width" />
     <link rel="icon" href="image/ppc-tracking.png" />
     <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
-    <link rel="stylesheet" href="css/bootstrap.min.css" />
-    <link rel="stylesheet" href="css/iriy-admin.min.css" />
-    <link rel="stylesheet" href="demo/css/demo.css" />
-    <link rel="stylesheet" href="assets/font-awesome/css/font-awesome.css" />
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="Content/iriy-admin.min.css" rel="stylesheet" />
+    <link href="Content/demo.css" rel="stylesheet" />
+    <link href="Content/font-awesome.css" rel="stylesheet" />
 
 </head>
     
